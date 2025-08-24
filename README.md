@@ -43,8 +43,7 @@ Product Popularity by Occasion – Which products are most popular for each occa
 
 **📊 Dashboard Preview**
 
-https://github.com/shitalw103/FNP-Excel-Project/blob/74ef40b8f356b298ddd085a90a94bc21b180d7b8/FNP-Screenshot%202025-08-16%20225821.jpg
-
+![image alt](https://github.com/shitalw103/FNP-Excel-Project/blob/38dd5bc7608d07cddb5595f7998222d5a4495e28/FNP-Screenshot%202025-08-16%20225821.jpg)
 **🔑 Insights & Findings**
 
 Revenue spikes significantly during festive occasions like Diwali & Valentine's Day.
