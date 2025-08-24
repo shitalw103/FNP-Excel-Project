@@ -43,7 +43,7 @@ Product Popularity by Occasion – Which products are most popular for each occa
 
 **📊 Dashboard Preview**
 
-(👉 Add a screenshot of your Excel dashboard here)
+https://github.com/shitalw103/FNP-Excel-Project/blob/74ef40b8f356b298ddd085a90a94bc21b180d7b8/FNP-Screenshot%202025-08-16%20225821.jpg
 
 **🔑 Insights & Findings**
 
